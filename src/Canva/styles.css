@@ -33,6 +33,8 @@ div img {
   width: 104px;
   height: 104px;
   border-radius: 50%;
+  border-style: solid;
+  border-color: #664492;
 }
 
 h1{
