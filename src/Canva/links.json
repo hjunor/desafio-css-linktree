@@ -1,0 +1,42 @@
+[
+  {  "name": "↓ Projetos ↓",
+    "url": "#",
+    "color":"#ffffff",
+    "background":"#664492"
+  },
+  {  "name": "Invest - ReactJS",
+    "url": "http://lively-spoon.surge.sh/",
+    "color":"#ffffff",
+    "background":"#60cef7"
+  },
+  {  "name": "Hero link - ReactJS && NodeJS ",
+    "url": "https://hero-link.netlify.app/",
+    "color": "#ffffff",
+    "background":"#60cef7"
+  },
+  {  "name": "Eventos MA - ReactJS",
+    "url": "http://eventospi.surge.sh/",
+    "color":"#ffffff",
+    "background":"#60cef7"
+  },
+  {  "name": "Matador de Monstros - VueJS",
+    "url": "http://elderly-meat.surge.sh/",
+    "color":"#ffffff",
+    "background":"#64b480"
+  },
+  {  "name": "GetBasal - JS CSS",
+    "url": "https://getbasal.netlify.app/",
+    "color": "#ffffff",
+    "background":"#efd81b"
+  },
+  {  "name": "Api TS (roles, permissions) NodeJs",
+    "url": "https://github.com/hjunor/api-typeORM-roles-permissions",
+    "color": "#ffff",
+    "background":"#8bc03d"
+  },
+  {  "name": "Guia Prático para Programação",
+    "url": "https://drive.google.com/file/d/15g4PdkzhsCWxpzuL9kjNIy50CN3VYqqB/view?usp=sharing",
+    "color": "#ffff",
+    "background":"#664492"
+  }
+]
