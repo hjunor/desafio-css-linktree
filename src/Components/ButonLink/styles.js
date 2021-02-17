@@ -4,7 +4,7 @@ import styled from "styled-components";
 export const GetLink = styled.a`
   color: ${(props) => props.color};
   background-color: ${(props) => props.background};
-  border-radius: 16px;
+  border-radius: 20px;
   display: flex;
   align-items:center;
   margin-top: 8px;
@@ -14,6 +14,7 @@ export const GetLink = styled.a`
   text-decoration: none;
   font-weight: bold;
   font-family: 'Nunito', sans-serif;
+  transition: .9s ease;
     &:focus, &:hover, &:visited, &:link, &:active {
       text-decoration: none;
     }
@@ -21,9 +22,10 @@ export const GetLink = styled.a`
     width: ${(props)=>(props.min_width)};
   }
   :hover{
-    padding: 3px;
+    height: 60px;
     color:#664492 ;
     background-color:#ffffff ;
-    border-style: solid;
+    border: 1px solid #664492;
+    border-radius:8px;
   }
 `;

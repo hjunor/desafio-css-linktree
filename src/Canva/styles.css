@@ -49,7 +49,7 @@ div .card{
   position: relative;
   margin-top: 42px;
   border-radius: 48px 48px 0 0 ;
-  height: 800px;
+  height: 130%;
   width: 500px;
 
 }
@@ -91,6 +91,7 @@ label.title{
   align-items: center;
   background-color: #664492;
   border-radius: 50%;
+  transition: .7s ease;
 }
 .link-icon:hover{
   width: 60px;
