@@ -1,6 +1,6 @@
 [
   {  "name": "↓ Projetos ↓",
-    "url": "https://linktree-hjunor.netlify.app",
+    "url": "#",
     "color":"#ffffff",
     "background":"#664492"
   },
@@ -38,5 +38,25 @@
     "url": "https://drive.google.com/file/d/15g4PdkzhsCWxpzuL9kjNIy50CN3VYqqB/view?usp=sharing",
     "color": "#ffff",
     "background":"#664492"
-  }
+  },
+  {  "name": "↓ Playlists Spotfy ↓",
+    "url": "#",
+    "color": "#ffff",
+    "background":"#1db954"
+  },
+    {  "name": " ROCK SORT",
+    "url": "https://open.spotify.com/playlist/6RJ505spr6lFtJNXoqgXjI?si=ptlBV8OzR1mv9wE5_N7ubQ&utm_source=whatsapp",
+    "color": "#ffff",
+    "background":"#1db954"
+  },
+  {  "name": "MPB SORT",
+  "url": "https://open.spotify.com/playlist/56QarHTqfgfF5s9LJP1B7V?si=5BsrrylaRJqy5v3AL1AoaQ&utm_source=whatsapp",
+  "color": "#ffff",
+  "background":"#1db954"
+  },
+  {  "name": "NOVA ERA",
+  "url": "https://open.spotify.com/playlist/7oqDREquMnofMfhS4gsazL?si=ZpBNHkx3SWiL-iuOzeqbDw&utm_source=whatsapp",
+  "color": "#ffff",
+  "background":"#1db954"
+}
 ]
