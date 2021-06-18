@@ -1,62 +1,80 @@
 [
-  {  "name": "↓ Projetos ↓",
+  {
+    "name": "↓ Projetos ↓",
     "url": "#",
-    "color":"#ffffff",
-    "background":"#664492"
+    "color": "#ffffff",
+    "background": "#664492"
   },
-  {  "name": "Invest - ReactJS",
+  {
+    "name": "Invest - ReactJS",
     "url": "http://lively-spoon.surge.sh/",
-    "color":"#ffffff",
-    "background":"#60cef7"
+    "color": "#ffffff",
+    "background": "#60cef7"
   },
-  {  "name": "Hero link - ReactJS && NodeJS ",
+  {
+    "name": "Hero link - ReactJS && NodeJS ",
     "url": "https://hero-link.netlify.app/",
     "color": "#ffffff",
-    "background":"#60cef7"
+    "background": "#60cef7"
   },
-  {  "name": "Eventos MA - ReactJS",
+  {
+    "name": "Movie | app - ReactJS",
+    "url": "https://movieoxpay.netlify.app/",
+    "color": "#ffffff",
+    "background": "#60cef7"
+  },
+  {
+    "name": "Eventos MA - ReactJS",
     "url": "http://eventospi.surge.sh/",
-    "color":"#ffffff",
-    "background":"#60cef7"
+    "color": "#ffffff",
+    "background": "#60cef7"
   },
-  {  "name": "Matador de Monstros - VueJS",
+  {
+    "name": "Matador de Monstros - VueJS",
     "url": "http://elderly-meat.surge.sh/",
-    "color":"#ffffff",
-    "background":"#64b480"
+    "color": "#ffffff",
+    "background": "#64b480"
   },
-  {  "name": "GetBasal - JS CSS",
+  {
+    "name": "GetBasal - JS CSS",
     "url": "https://getbasal.netlify.app/",
     "color": "#ffffff",
-    "background":"#efd81b"
+    "background": "#efd81b"
   },
-  {  "name": "Api TS (roles, permissions) NodeJs",
+  {
+    "name": "Api TS (roles, permissions) NodeJs",
     "url": "https://github.com/hjunor/api-typeORM-roles-permissions",
     "color": "#ffff",
-    "background":"#8bc03d"
+    "background": "#8bc03d"
   },
-  {  "name": "Guia Prático para Programação",
+  {
+    "name": "Guia Prático para Programação",
     "url": "https://drive.google.com/file/d/15g4PdkzhsCWxpzuL9kjNIy50CN3VYqqB/view?usp=sharing",
     "color": "#ffff",
-    "background":"#664492"
+    "background": "#664492"
   },
-  {  "name": "↓ Playlists Spotify ↓",
+  {
+    "name": "↓ Playlists Spotify ↓",
     "url": "#",
     "color": "#ffff",
-    "background":"#1db954"
+    "background": "#1db954"
   },
-    {  "name": " ROCK SORT",
+  {
+    "name": " ROCK SORT",
     "url": "https://open.spotify.com/playlist/6RJ505spr6lFtJNXoqgXjI?si=ptlBV8OzR1mv9wE5_N7ubQ&utm_source=whatsapp",
     "color": "#ffff",
-    "background":"#1db954"
+    "background": "#1db954"
   },
-  {  "name": "MPB SORT",
-  "url": "https://open.spotify.com/playlist/56QarHTqfgfF5s9LJP1B7V?si=5BsrrylaRJqy5v3AL1AoaQ&utm_source=whatsapp",
-  "color": "#ffff",
-  "background":"#1db954"
+  {
+    "name": "MPB SORT",
+    "url": "https://open.spotify.com/playlist/56QarHTqfgfF5s9LJP1B7V?si=5BsrrylaRJqy5v3AL1AoaQ&utm_source=whatsapp",
+    "color": "#ffff",
+    "background": "#1db954"
   },
-  {  "name": "NOVA ERA",
-  "url": "https://open.spotify.com/playlist/7oqDREquMnofMfhS4gsazL?si=ZpBNHkx3SWiL-iuOzeqbDw&utm_source=whatsapp",
-  "color": "#ffff",
-  "background":"#1db954"
-}
+  {
+    "name": "NOVA ERA",
+    "url": "https://open.spotify.com/playlist/7oqDREquMnofMfhS4gsazL?si=ZpBNHkx3SWiL-iuOzeqbDw&utm_source=whatsapp",
+    "color": "#ffff",
+    "background": "#1db954"
+  }
 ]

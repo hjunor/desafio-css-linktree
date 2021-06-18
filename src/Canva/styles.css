@@ -1,31 +1,53 @@
-.container{
-    margin: auto;
-    width: 500px;
-    height: calc(100vh - 20px);
-    margin: 20px 0 0 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: #fff;
+.container {
+  margin: auto;
+  width: 500px;
+  height: calc(100vh - 20px);
+  margin: 20px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  position: relative;
 }
-.btn-container{
+
+.container::after {
+  content: "";
+  position: absolute;
+  width: 500px;
+  height: 200px;
+  background: #fff;
+  bottom: -400px;
+  z-index: -1;
+}
+@media screen and (max-width: 600px) {
+  .container::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    background: #fff;
+    bottom: -600px;
+    z-index: -1;
+  }
+}
+.btn-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 85%;
 }
 
-.card-container{
+.card-container {
   display: flex;
   align-items: center;
   flex-direction: column;
 }
-.work{
+.work {
   font-size: 14px;
   color: #fff;
   margin-bottom: 20px;
 }
-.description{
+.description {
   font-size: 16px;
   color: #fff;
 }
@@ -37,41 +59,39 @@ div img {
   border-color: #664492;
 }
 
-h1{
+h1 {
   font-size: 20px;
   color: #fff;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: bold;
 }
 
-div .card{
+div .card {
   background-color: #fff;
   position: relative;
   margin-top: 42px;
-  border-radius: 48px 48px 0 0 ;
+  border-radius: 48px 48px 0 0;
   height: 130%;
   width: 500px;
-
 }
 
-label.title{
+label.title {
   font-size: 16px;
   color: #000;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   margin-top: 60px;
   display: block;
   margin-left: 52px;
   margin-bottom: 20px;
-  
 }
 
- @media screen and (max-width: 600px) {
-  div .card{
+@media screen and (max-width: 600px) {
+  div .card {
     width: 100%;
   }
 }
 
-.container-icon{
+.container-icon {
   width: 223px;
   display: flex;
   justify-content: space-around;
@@ -83,7 +103,7 @@ label.title{
   position: absolute;
   left: calc(50% - 111px);
 }
-.link-icon{
+.link-icon {
   width: 48px;
   height: 48px;
   display: flex;
@@ -91,15 +111,15 @@ label.title{
   align-items: center;
   background-color: #664492;
   border-radius: 50%;
-  transition: .7s ease;
+  transition: 0.7s ease;
 }
-.link-icon:hover{
+.link-icon:hover {
   width: 60px;
   height: 60px;
 }
 
-iframe{
- width: 85%;
- height: 240px;
- border-radius: 16px;
+iframe {
+  width: 85%;
+  height: 240px;
+  border-radius: 16px;
 }
